@@ -44,4 +44,6 @@ BMI has a positive correlation with Diabetes, and high cholesterol and high bloo
 #### Connect on LinkedIn : https://www.linkedin.com/in/sreedevi-gurram-a27219266/
 #### Explore Github : https://github.com/sreegurram/
 
-### References: https://www.cdc.gov/brfss/annual_data/annual_2015.html
+### References: 
+#### Ref1 - https://www.cdc.gov/brfss/annual_data/annual_2015.html
+#### Ref2 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7487151/

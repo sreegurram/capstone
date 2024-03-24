@@ -37,11 +37,11 @@ BMI has a positive correlation with Diabetes, and high cholesterol and high bloo
 #### Link to notebook 1 - https://github.com/sreegurram/capstone/blob/main/src/Diabetes_multiclass-012_EDA.ipynb - This notebook contains the exploratory data analysis.
 #### Link to notebook 2 - https://github.com/sreegurram/capstone/blob/main/src/Diabetes_multiclass-012_EDA_ModelPred.ipynb - Initial Predictions using simple ML models
 #### Link to notebook 3 - https://github.com/sreegurram/capstone/blob/main/src/Diabetes_multiclass-012_EDA_ModelPred_ANN.ipynb - Diabetes prediction Hyper parameter tuned ML Models and Diabetes prediction using ANN
-#### Link to ModelComparision images - https://github.com/sreegurram/capstone/blob/main/img/
+#### Link to ModelComparision images - https://github.com/sreegurram/capstone/blob/main/img/Final%20Selected%20model%20performance.png - Final model performance metrics
 
 ## Contact and Further Information
-Author : Sreedevi Gurram
-Connect on LinkedIn : https://www.linkedin.com/in/sreedevi-gurram-a27219266/
-Explore Github : https://github.com/sreegurram/
+#### Author : Sreedevi Gurram
+#### Connect on LinkedIn : https://www.linkedin.com/in/sreedevi-gurram-a27219266/
+#### Explore Github : https://github.com/sreegurram/
 
 ### References: https://www.cdc.gov/brfss/annual_data/annual_2015.html
